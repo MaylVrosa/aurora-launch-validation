@@ -1,7 +1,7 @@
 
-# 🚀 Aurora Siger – Sistema de Pré-Decolagem
+# Aurora Siger – Sistema de Pré-Decolagem
 
-## 📌 Descrição do Projeto
+## Descrição do Projeto
 
 Este projeto simula um **sistema de verificação de pré-decolagem** de uma nave espacial fictícia chamada **Aurora Siger**.
 
@@ -16,7 +16,7 @@ Este projeto foi desenvolvido como parte de uma atividade acadêmica voltada par
 
 ---
 
-# 🛰️ Parâmetros de Telemetria
+# Parâmetros de Telemetria
 
 O sistema analisa cinco parâmetros principais da nave:
 
@@ -30,7 +30,7 @@ O sistema analisa cinco parâmetros principais da nave:
 
 ---
 
-# 📊 Organização da Telemetria
+# Organização da Telemetria
 
 Exemplo de leitura dos sensores da nave antes da decolagem:
 
@@ -48,7 +48,7 @@ Todos os parâmetros encontram-se dentro das **faixas operacionais seguras**, in
 
 ---
 
-# 💻 Código Python
+# Código Python
 
 ```python
 print("=== SISTEMA DE PRÉ-DECOLAGEM - AURORA SIGER ===")
@@ -77,7 +77,7 @@ else:
 
 ---
 
-# ⚙️ Como Executar o Projeto
+# Como Executar o Projeto
 
 1. Instale o Python (versão 3 ou superior).
 2. Clone este repositório:
@@ -96,7 +96,23 @@ python sistema_pre_decolagem.py
 
 ---
 
-# 🧠 Lógica do Sistema
+# Prints da Execução
+
+Exemplo de execução do sistema:
+
+=== SISTEMA DE PRÉ-DECOLAGEM - AURORA SIGER ===
+
+Digite a temperatura interna (°C): 72
+Integridade estrutural (1 = OK / 0 = FALHA): 1
+Nível de energia (%): 68
+Pressão dos tanques: 95
+Módulos críticos OK? (s/n): s
+
+🚀 PRONTO PARA DECOLAR
+
+---
+
+# Lógica do Sistema
 
 O sistema utiliza **estruturas condicionais (`if`)** para verificar se todos os parâmetros estão dentro dos limites de segurança:
 
@@ -110,13 +126,13 @@ Se **todas as condições forem verdadeiras**, o sistema autoriza a decolagem.
 
 ---
 
-# 🎓 Contexto Acadêmico
+# Contexto Acadêmico
 
 Este projeto foi desenvolvido para simular **processos reais de validação de sistemas embarcados** utilizados em missões aeroespaciais. Em operações reais, sistemas computacionais analisam continuamente dados de sensores para garantir a segurança da missão.
 
 ---
 
-# 🛠️ Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 * Python
 * Lógica condicional
@@ -124,7 +140,7 @@ Este projeto foi desenvolvido para simular **processos reais de validação de s
 
 ---
 
-# 👩‍💻 Autora
+# Autora
 
 Mayara Rosa
 Estudante de Ciência da Computação
