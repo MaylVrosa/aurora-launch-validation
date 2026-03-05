@@ -79,7 +79,7 @@ else:
 
 # Como Executar o Projeto
 
-1. Faça o download do arquivo **Aurora Siger.ipynb** disponível neste repositório.
+1. Faça o download do arquivo **AuroraSiger.ipynb** disponível neste repositório.
 
 2. Certifique-se de que o **Python 3** esteja instalado no computador.
 
