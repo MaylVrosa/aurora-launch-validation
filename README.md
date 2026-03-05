@@ -79,20 +79,36 @@ else:
 
 # Como Executar o Projeto
 
-1. Instale o Python (versão 3 ou superior).
-2. Clone este repositório:
+1. Faça o download do arquivo **Aurora Siger.ipynb** disponível neste repositório.
 
-```
-git clone https://github.com/seuusuario/aurora-pre-launch-system
-```
+2. Certifique-se de que o **Python 3** esteja instalado no computador.
 
-3. Execute o script:
+3. Abra o arquivo utilizando um ambiente compatível com **Jupyter Notebook**, como:
 
-```
-python sistema_pre_decolagem.py
-```
+* Jupyter Notebook
+* JupyterLab
+* Google Colab
+* PyCharm
+* VS Code
 
-4. Insira os dados solicitados pelo sistema.
+4. Execute as células do notebook na ordem apresentada.
+
+5. O sistema solicitará os dados de telemetria da nave:
+
+* Temperatura interna
+* Integridade estrutural
+* Nível de energia
+* Pressão dos tanques
+* Status dos módulos críticos
+
+6. Após inserir os valores, o sistema analisará os parâmetros e exibirá o resultado:
+
+🚀 **PRONTO PARA DECOLAR**
+
+ou
+
+❌ **DECOLAGEM ABORTADA**
+
 
 ---
 
