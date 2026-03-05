@@ -119,9 +119,13 @@ Exemplo de execução do sistema:
 === SISTEMA DE PRÉ-DECOLAGEM - AURORA SIGER ===
 
 Digite a temperatura interna (°C): 72
+
 Integridade estrutural (1 = OK / 0 = FALHA): 1
+
 Nível de energia (%): 68
+
 Pressão dos tanques: 95
+
 Módulos críticos OK? (s/n): s
 
 🚀 PRONTO PARA DECOLAR
